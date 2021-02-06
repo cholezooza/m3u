@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/3aa71e9a78a5d712656256f6f1d81ec6.jpg" group-title="Action", Faster 2011
+http://barbox.tk/Sfu
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/0/0e4e3bb63ec49f2c6c68f3942216cf99.jpg" group-title="Action", ลางนรก
+https://hlscache.proxy-movie.com/M3USpider_4K/Redirector.php?url=https://cdn.livedoomovies.com/hls/649d20a5afed02270cc1f93c26befd2c/649d20a5afed02270cc1f93c26befd2c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/9/9f18493e9b225137cce4088159731b0b.jpg" group-title="Action", Black Hawk Down -ยุทธการฝ่ารหัสทมิฬ
+https://hlscache.proxy-movie.com/M3USpider_4K/Redirector.php?url=https://cdn.livedoomovies.com/hls/c74a83d0537376093a5c535e232e4eb1/c74a83d0537376093a5c535e232e4eb1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/3410d659f622ec9523654971457c597d.jpg" group-title="Action", คนคมล่าระเบิดเมือง
+https://hlscache.proxy-movie.com/M3USpider_4K/Redirector.php?url=https://cdn.livedoomovies.com/hls/ba477ef5dd543658dd182451e5ba9033/ba477ef5dd543658dd182451e5ba9033.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/2acdd6da2908e2a2eafab9779c8e67b0.jpg" group-title="Action", แหกคุกมหาประลัย2
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.youlive-cdn.com/hls/05f6a55de4b82ae56195bb0270f11451/05f6a55de4b82ae56195bb0270f11451.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/a/a43c15d1d07f2698bf9c462e737a7801.jpg" group-title="Action", แหกคุกมหาประลัย 3
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.youlive-cdn.com/hls/05f6a55de4b82ae56195bb0270f11451/05f6a55de4b82ae56195bb0270f11451.m3u8
+
