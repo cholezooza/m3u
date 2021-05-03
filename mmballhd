@@ -8,44 +8,44 @@ https://cdn.googlecdnforstreaming.live/mmballhd/tpf1_480/chunks.m3u8
 
 #EXTINF:-1,True Premier HD 2
 #EXTVLCOPT:http-referrer=https://mmballhd.com/
-https://cdn.googlecdnforstreaming.live/mmballhd/tpf2/chunks.m3u8
+https://cdn.googlecdnforstreaming.live/mmballhd/epl2/chunks.m3u8
 
 #EXTINF:-1,Bein TH 1
 #EXTVLCOPT:http-referrer=https://mmballhd.com/
 https://cdn.googlecdnforstreaming.live/mmballhd/bein1/chunks.m3u8
 
 #EXTINF:-1,Bein TH 2
-#EXTVLCOPT:http-referrer=https://moodooball.com/
+#EXTVLCOPT:http-referrer=https://mmballhd.com/
 https://cdn.googlecdnforstreaming.live/mmballhd/bein2/chunks.m3u8
 
 #EXTINF:-1,True Sport 2
-#EXTVLCOPT:http-referrer=https://moodooball.com/
+#EXTVLCOPT:http-referrer=https://mmballhd.com/
 https://cdn.googlecdnforstreaming.live/mmballhd/tsp2/chunks.m3u8
 
 #EXTINF:-1,True Sport 5
-#EXTVLCOPT:http-referrer=https://moodooball.com/
+#EXTVLCOPT:http-referrer=https://mmballhd.com/
 https://cdn.googlecdnforstreaming.live/mmballhd/tsp5/chunks.m3u8
 
 #EXTINF:-1,True Sport 6
-#EXTVLCOPT:http-referrer=https://moodooball.com/
+#EXTVLCOPT:http-referrer=https://mmballhd.com/
 https://cdn.googlecdnforstreaming.live/mmballhd/tsp6/chunks.m3u8
 
 #EXTINF:-1,True Sport 7
-#EXTVLCOPT:http-referrer=https://moodooball.com/
+#EXTVLCOPT:http-referrer=https://mmballhd.com/
 https://cdn.googlecdnforstreaming.live/mmballhd/tsp7/chunks.m3u8
 
 #EXTINF:-1,True Sport HD
-#EXTVLCOPT:http-referrer=https://moodooball.com/
+#EXTVLCOPT:http-referrer=https://mmballhd.com/
 https://cdn.googlecdnforstreaming.live/mmballhd/thd1/chunks.m3u8
 
 #EXTINF:-1,True Sport HD 2
-#EXTVLCOPT:http-referrer=https://moodooball.com/
+#EXTVLCOPT:http-referrer=https://mmballhd.com/
 https://cdn.googlecdnforstreaming.live/mmballhd/thd2/chunks.m3u8
 
 #EXTINF:-1,True Sport HD 3
-#EXTVLCOPT:http-referrer=https://moodooball.com/
+#EXTVLCOPT:http-referrer=https://mmballhd.com/
 https://cdn.googlecdnforstreaming.live/mmballhd/thd3/chunks.m3u8
-
+ 
 #EXTINF:-1,True Sport HD 4
-#EXTVLCOPT:http-referrer=https://moodooball.com/
+#EXTVLCOPT:http-referrer=https://mmballhd.com/
 https://cdn.googlecdnforstreaming.live/mmballhd/thd4/chunks.m3u8
