@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1,RMC SPORT 1
 http://mytv.fun/live/aj83ysinnc/jhpnxsvcxr5/625254.m3u8
+#EXTVLCOPT:http-referrer=https://mmballhd.com/
 #EXTINF:-1,True Premier HD 1
 https://cdn.googlecdnforstreaming.live/mmballhd/tpf1_480/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://mmballhd.com/
 #EXTINF:-1,True Premier HD 2
 https://cdn.googlecdnforstreaming.live/mmballhd/epl2/chunks.m3u8
