@@ -38,7 +38,7 @@ http://77.83.117.60:8888/02_MCOTHD_720p/chunklist.m3u8
 #EXTINF:0,one hd
 http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
 #EXTINF:0,thairath tv
-https://live.thairath.co.th/trtv2/playlist.m3u8
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:0,ch3
 http://live2.dootvde.com/live/50001_ch3.stream.smil/chunklist_w177083077_b4692000_slThai.m3u8
 #EXTINF:0,amarin tv
