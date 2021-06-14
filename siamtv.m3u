@@ -2,13 +2,15 @@
 ###https://raw.githubusercontent.com/cholezooza/m3u/main/siamtv.m3u##
 ####
 #EXTINF:0,ch5
-http://77.83.117.60:8888/02_5HD_720p/chunklist.m3u8
+http://live2.dootvde.com/live/50002_ch5.stream.smil/chunklist_w177083077_b4692000_slThai.m3u8
+#http://77.83.117.60:8888/02_5HD_720p/chunklist.m3u8
 #EXTINF:0,nbt
 http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
 #EXTINF:0,NBT
 https://freeball98.com/4k/12/playlist.m3u8
 #EXTINF:0,nbt
-https://thainews.prd.go.th/lv/live/ch1_L.sdp/chunklist_w525823488.m3u8
+http://live2.dootvde.com/live/50005_nbt.stream.smil/chunklist_w858570114_b4692000_slThai.m3u8
+#https://thainews.prd.go.th/lv/live/ch1_L.sdp/chunklist_w525823488.m3u8
 #EXTINF:0,tpbs
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:0,altv
@@ -44,7 +46,8 @@ https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:0,ch3
 http://live2.dootvde.com/live/50001_ch3.stream.smil/chunklist_w177083077_b4692000_slThai.m3u8
 #EXTINF:0,3HD
-https://freeball98.com/4k/17/playlist.m3u8
+http://live2.dootvde.com/live/50001_ch3.stream.smil/chunklist_w177083077_b4692000_slThai.m3u8
+#https://freeball98.com/4k/17/playlist.m3u8
 #EXTINF:0,amarin tv
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
 #EXTINF:0,ch7sd
