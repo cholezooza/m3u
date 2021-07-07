@@ -1,4 +1,4 @@
-"#EXTM3U
+#EXTM3U
 ###https://raw.githubusercontent.com/cholezooza/m3u/main/siamtv.m3u##
 ####
 #EXTINF:0,ch5
@@ -49,6 +49,12 @@ http://77.83.117.60:8888/02_7HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:0,pptv
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist.m3u8
+#EXTINF:0,True Sport HD 1
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0,True Sport HD 2
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0,True Sport HD 3
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:0,SportTV1
 https://freeball100.com/sporttv/1/playlist.m3u8
 #EXTINF:0,SportTV2
@@ -63,5 +69,3 @@ https://freeball100.com/sporttv/5/playlist.m3u8
 https://freeball100.com/btsport/1/playlist.m3u8
 #EXTINF:0,BT Sport2
 https://freeball100.com/btsport/2/playlist.m3u8
-#EXTINF:0,True Sport HD 3
-https://freeball98.com/4k/12/playlist.m3u8
